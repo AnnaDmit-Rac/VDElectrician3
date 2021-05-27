@@ -1,0 +1,30 @@
+h1 {
+	color:#004d00; 
+}
+
+p1 {
+
+	font-size:3rem;
+	color:#8cff1a ;
+}
+
+.img-new{
+	width: 1430px;
+	height:245px;
+}
+.img-about {
+	 border-radius: 20%;
+	 height:470px;
+}
+
+.btn {
+	font-weight: 500;
+	border-radius: 300px;
+}
+.btn-success {
+	color: rgb(10,11,6);
+}
+
+.btn-lg {
+	padding:3rem, 4rem;
+}
